@@ -36,7 +36,7 @@ IEEE/ACM Annual International Symposium on Computer Architecture, 2024*.
 
 \[**DAC'24**\] Hanqiu Chen\*, **Yitu Wang\***, Andrew Chang, Yiran Chen, Cong “Callie” Hao, “ICGMM: CXL-enabled Memory
 Expansion with Intelligent Caching Using Gaussian Mixture Model”. *To appear on 61st IEEE/ACM Annual Design
-Automation Conference, 2024.*
+Automation Conference, 2024. (\* equal contribution)*
 
 
 
