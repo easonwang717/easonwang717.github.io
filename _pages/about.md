@@ -17,14 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yitu Wang is 
+Yitu Wang is a Ph.D. candidate in Duke ECE Department under the supervision of [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). He received B.S.E. in Microelectronics from Fudan University in 2020. His research interests include machine learining acceleration, near data processing for data-intensive applications such recommendation system, approximate nearest neighbor search and retrieval-augemented generation (RAG), and algorithm-architecture co-design for deep learning system.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
