@@ -17,17 +17,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yitu Wang is a Ph.D. candidate in Duke ECE Department under the supervision of [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). He received B.S.E. in Microelectronics from Fudan University in 2020. His research interests include machine learining acceleration, near data processing for data-intensive applications such recommendation system, approximate nearest neighbor search and retrieval-augemented generation (RAG), and algorithm-architecture co-design for deep learning system.
+Yitu Wang is a Ph.D. candidate in computer engineering in Duke ECE Department under the supervision of [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). He received B.S.E. in Microelectronics from Fudan University in 2020. His research interests include machine learining acceleration, near data processing for data-intensive applications such recommendation system, approximate nearest neighbor search and retrieval-augemented generation (RAG), and algorithm-architecture co-design for deep learning system. He is expected to gradute in Spring of 2025.
 
+# 📖 Educations
+- *2020.08 - *, Ph.D. candidate in Computer Engineering at Duke University.
+- *2016.09 - 2020.06*, B.S.E in Microelectronics at Fudan University.
+
+# 💻 Internships
+- *2023.05 - 2023.08*, System Architect Intern in [Samsung Memory Solution Lab]([http://nicsefc.ee.tsinghua.edu.cn](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/memory-labs/)), San Jose, California, USA.
+- *2022.05 - 2022.08*, System Architect Intern in [Samsung Memory Solution Lab]([http://nicsefc.ee.tsinghua.edu.cn](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/memory-labs/)), San Jose, California, USA.
+- *2020.08 - 2021.07*, Research Intern (worked remotely as a Ph.D. student at Duke) in [NICS-EFC](http://nicsefc.ee.tsinghua.edu.cn) Group in Tsinghua EE Department, Beijing, China.
+  
 
 # 📝 Publications 
+\[ISCA'24\] **Yitu Wang**, Shiyu Li, Qilin Zheng, Linghao Song, Zongwang Li, Andrew Chang, Hai “Helen” Li, Yiran Chen,
+[NDSearch: Accelerating Approximate Nearest Neighbor Search through Near-Data Processing]. *To appear on 51st
+IEEE/ACM Annual International Symposium on Computer Architecture, 2024*.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -36,13 +43,7 @@ Yitu Wang is a Ph.D. candidate in Duke ECE Department under the supervision of [
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
