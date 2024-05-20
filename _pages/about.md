@@ -31,7 +31,7 @@ Yitu Wang is a Ph.D. candidate in computer engineering in Duke ECE Department un
 
 # 📝 Publications 
 ## Preprints
-- \[In Submission\] **Yitu Wang**, Minxue Tang, Hanqiu Chen, Shiyu Li, Andrew Chang, Jie “Callie” Hao, Hai “Helen” Li, Yiran Chen, “FedRepre: End-to-End Acceleration of Federated Learning System with Client Representative”.
+- \[In Submission\] **Yitu Wang**, Minxue Tang, Hanqiu Chen, Shiyu Li, Andrew Chang, Cong “Callie” Hao, Hai “Helen” Li, Yiran Chen, “FedRepre: End-to-End Acceleration of Federated Learning System with Client Representative”.
 
 ## First-author papers
 - \[**ISCA'24**\] **Yitu Wang**, Shiyu Li, Qilin Zheng, Linghao Song, Zongwang Li, Andrew Chang, Hai “Helen” Li, Yiran Chen,
