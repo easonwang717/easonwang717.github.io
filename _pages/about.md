@@ -39,8 +39,8 @@ Expansion with Intelligent Caching Using Gaussian Mixture Model”. *To appear o
 Automation Conference, 2024. (\*equal contribution)*
 
 
-# Professional Services
-## Journal and Conference Reviewer
+
+# Journal and Conference Reviewer Experiences
 CAL, CVPR, TC, TCAD, TCAS-I, TVLSI, TODAES
 
 
