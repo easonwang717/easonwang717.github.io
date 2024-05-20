@@ -43,19 +43,19 @@ Expansion with Intelligent Caching Using Gaussian Mixture Model”. *To appear o
 Automation Conference, 2024. (\*equal contribution)*
 
 \[**ESWEEK’23/TECS’23**\] **Yitu Wang**, Shiyu Li, Qilin Zheng, Andrew Chang, Hai “Helen” Li, Yiran Chen, “[EMS-I: An
-Efficient Memory System Design with Specialized Caching Mechanism for Recommendation System](https://dl.acm.org/doi/abs/10.1145/3609384)”. ACM Transactions on Embedded Computing System, 2023.
+Efficient Memory System Design with Specialized Caching Mechanism for Recommendation System](https://dl.acm.org/doi/abs/10.1145/3609384)”. *ACM Transactions on Embedded Computing System, 2023.*
 
 \[**ICCAD’21**\] **Yitu Wang**, Zhenhua Zhu, Fan Chen, Mingyuan Ma, Guohao Dai, Yu Wang, Hai “Helen” Li, and Yiran Chen,
-“[ReRec: In-ReRAM Acceleration with Access-Aware Mapping for Personalized Recommendation](https://ieeexplore.ieee.org/document/9643573)”. 2021 IEEE/ACM International Conference on Computer Aided Design.
+“[ReRec: In-ReRAM Acceleration with Access-Aware Mapping for Personalized Recommendation](https://ieeexplore.ieee.org/document/9643573)”. *2021 IEEE/ACM International Conference on Computer Aided Design.*
 
 \[**DATE’20**\] **Yitu Wang**, Fan Chen, Linghao Song, C.J. Richard Shi, Hai “Helen” Li, and Yiran Chen, “[ReBoc: Accelerating
-Block-Circulant Neural Networks in ReRAM](https://ieeexplore.ieee.org/document/9116422)”. 2020 Design, Automation & Test in Europe Conference & Exhibition.
+Block-Circulant Neural Networks in ReRAM](https://ieeexplore.ieee.org/document/9116422)”. *2020 Design, Automation & Test in Europe Conference & Exhibition.*
 
 ## Co-author papers
 
 \[**DAC'24**\] Qilin Zheng, Ziru Li, Jonathan Ku, **Yitu Wang**, Brady Taylor, Yiran Chen, “Improving the Efficiency of In-
-Memory-Computing Macro with a Hybrid Analog-Digital Computing Mode For Lossless Neural Network Inference”. To
-appear on 61st IEEE/ACM Annual Design Automation Conference, 2024.
+Memory-Computing Macro with a Hybrid Analog-Digital Computing Mode For Lossless Neural Network Inference”. *To
+appear on 61st IEEE/ACM Annual Design Automation Conference, 2024.*
 
 \[**TC’24**\] Shiyu Li, **Yitu Wang**, Edward Hanson, Andrew Chang, Yang Seok Ki, Hai “Heleln” Li, Yiran Chen, “[NDRec:
 Accelerating the Training of Recommendation Models through Near-Data Processing](https://www.computer.org/csdl/journal/tc/2024/05/10437993/1UyVDfWo6Uo)”, *IEEE Transaction on Computers, 2024.*
@@ -63,17 +63,19 @@ Accelerating the Training of Recommendation Models through Near-Data Processing]
 \[**ISCAS'24**\] Qilin Zheng, Shiyu Li, **Yitu Wang**, Ziru Li, Hai “Helen” Li, Yiran Chen, “Hybrid Digital/Analog Memoristorbased
 Computing Architecture for Sparse Deep Learning Acceleration”. *To appear on 2024 International Symposium on Circuits and Systems.*
 
-\[**MICRO’23**\] Edward Hanson, Shiyu Li, Guanglei Zhou, Feng Cheng, **Yitu Wang**, Hai “Helen” Li, and Yiran Chen, “[Si-kintusgi: Towards Recovering Golden-like Performance of Defective Many-core Spatial Architecture for AI](https://dl.acm.org/doi/abs/10.1145/3613424.3614278?casa_token=vK8OZUhzCQIAAAAA:lxy9FqzENsymrqXhOhvTzrPecFl5t72Mz7uoXm0oYQ-ZyHy6ZQLe3ccY5qBinfR6m-pOnkVWeK9Oaw)”. Proceedings of the 56th Annual IEEE/ACM International Symposium on Microarchitecture, 2023
+\[**MICRO’23**\] Edward Hanson, Shiyu Li, Guanglei Zhou, Feng Cheng, **Yitu Wang**, Hai “Helen” Li, and Yiran Chen, “[Si-kintusgi: Towards Recovering Golden-like Performance of Defective Many-core Spatial Architecture for AI](https://dl.acm.org/doi/abs/10.1145/3613424.3614278?casa_token=vK8OZUhzCQIAAAAA:lxy9FqzENsymrqXhOhvTzrPecFl5t72Mz7uoXm0oYQ-ZyHy6ZQLe3ccY5qBinfR6m-pOnkVWeK9Oaw)”. *Proceedings of the 56th Annual IEEE/ACM International Symposium on Microarchitecture, 2023.*
 
 \[**DAC’23**\] Qilin Zheng, Shiyu Li, **Yitu Wang**, Ziru Li, Hai “Helen” Li, and Yiran Chen, “[Accelerating Sparse Attention with
-Reconfigurable Non-Volatile Processing-in-Memory Architecture](https://ieeexplore.ieee.org/abstract/document/10247908?casa_token=Y_YA9r7mkPYAAAAA:jrpX-cfCWQ2LZ7jic5_IW_lUXYuGDatyTfZ_xqyGmGL8_BM8LgzoiNc8yph5GUYMYcHRQl7DCcA)”. 60th IEEE/ACM Annual Design Automation Conference, 2023.
+Reconfigurable Non-Volatile Processing-in-Memory Architecture](https://ieeexplore.ieee.org/abstract/document/10247908?casa_token=Y_YA9r7mkPYAAAAA:jrpX-cfCWQ2LZ7jic5_IW_lUXYuGDatyTfZ_xqyGmGL8_BM8LgzoiNc8yph5GUYMYcHRQl7DCcA)”. *60th IEEE/ACM Annual Design Automation Conference, 2023.*
 
 \[**CVPR’22**\] Minxue Tang, Xuefei Ning, **Yitu Wang**, Yu Wang and Yiran Chen, “[FedGP: Correlation-Based Active Client
-Selection for Heterogeneous Federated Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_FedCor_Correlation-Based_Active_Client_Selection_Strategy_for_Heterogeneous_Federated_Learning_CVPR_2022_paper.pdf)”. Proceedings of 2022 IEEE/CVF Conference on Computer Vision and Pttern Recognition.
+Selection for Heterogeneous Federated Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_FedCor_Correlation-Based_Active_Client_Selection_Strategy_for_Heterogeneous_Federated_Learning_CVPR_2022_paper.pdf)”. *Proceedings of 2022 IEEE/CVF Conference on Computer Vision and Pttern Recognition.*
 
 \[**EMC2-NeurIPS’19**\] Jingyang Zhang, Huanrui Yang, Fan Chen, **Yitu Wang**, and Hai “Helen” Li, “[Exploring Bit-Slice
-Sparsity in Deep Neural Networks for Efficient ReRAM-Based Deployment](https://ieeexplore.ieee.org/document/9463560)”. Fifth Workshop on Energy Efficient Machine Learning and Cognitive Computing NeurIPS Edition, 2019.
+Sparsity in Deep Neural Networks for Efficient ReRAM-Based Deployment](https://ieeexplore.ieee.org/document/9463560)”. *Fifth Workshop on Energy Efficient Machine Learning and Cognitive Computing NeurIPS Edition, 2019.*
 
 
 # Journal and Conference Reviewer Experiences
 CAL, CVPR, TC, TCAD, TCAS-I, TVLSI, TODAES
+
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
