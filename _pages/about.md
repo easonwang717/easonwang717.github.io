@@ -23,7 +23,7 @@ Yitu Wang is a Ph.D. candidate in computer engineering in Duke ECE Department un
 - *2020.08 -*, Ph.D. candidate in Computer Engineering at Duke University, Durham, NC, USA.
 - *2016.09 - 2020.06*, B.S.E in Microelectronics at Fudan University, Shanghai, China.
 
-# 💻 Internships
+# 💻 Experiences
 - *2023.05 - 2023.08*, System Architect Intern in [Samsung Memory Solution Lab]([http://nicsefc.ee.tsinghua.edu.cn](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/memory-labs/)), San Jose, California, USA.
 - *2022.05 - 2022.08*, System Architect Intern in [Samsung Memory Solution Lab]([http://nicsefc.ee.tsinghua.edu.cn](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/memory-labs/)), San Jose, California, USA.
 - *2020.08 - 2021.07*, Research Intern (also worked remotely as a Ph.D. student at Duke) in [NICS-EFC](http://nicsefc.ee.tsinghua.edu.cn) Group in Tsinghua EE Department, Beijing, China.
