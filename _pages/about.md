@@ -77,6 +77,3 @@ Sparsity in Deep Neural Networks for Efficient ReRAM-Based Deployment](https://i
 
 # 📖 Journal and Conference Reviewer Experiences
 CAL, CVPR, TC, TCAD, TCAS-I, TVLSI, TODAES
-
-# 🌍 Visitor Map
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=acj8t-Rr-AdS8k8pwPDboTLVz8Yakdo5pj_v2muk-VI&cl=ffffff&w=a"></script>
