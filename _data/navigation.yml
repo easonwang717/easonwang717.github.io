@@ -14,6 +14,9 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Services"
+    url: "/#-services"
+
   # - title: "Profession Services"
     # url: "/#-professional-services"
 
