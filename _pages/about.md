@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yitu Wang is a Ph.D. candidate in computer engineering in Duke ECE Department under the supervision of [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). He received B.S.E. in Microelectronics from Fudan University in 2020. His research interests include machine learining acceleration, near data processing for data-intensive applications such recommendation system, approximate nearest neighbor search and retrieval-augemented generation (RAG), and algorithm-architecture co-design for deep learning system. He is expected to gradute in 2025 Spring.
+Yitu Wang is a Ph.D. candidate in computer engineering in Duke ECE Department under the supervision of [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). He received B.S.E. in Microelectronics from Fudan University in 2020. His research interests include machine learning acceleration, near data processing for data-intensive applications such recommendation system, approximate nearest neighbor search and retrieval-augmented generation (RAG), and algorithm-architecture co-design for deep learning system. He is expected to graduate in 2025 Spring.
 
 # 📖 Educations
 - *2020.08 -*, Ph.D. candidate in Computer Engineering at Duke University, Durham, NC, USA.
