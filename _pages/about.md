@@ -36,8 +36,8 @@ Yitu Wang is a Ph.D. candidate in computer engineering in Duke ECE Department un
 
 ## First-author papers
 - \[**ISCA'24**\] **Yitu Wang**, Shiyu Li, Qilin Zheng, Linghao Song, Zongwang Li, Andrew Chang, Hai “Helen” Li, Yiran Chen,
-"NDSearch: Accelerating Graph-Traversal-Based Approximate Nearest Neighbor Search through Near Data Processing". *To appear on 51st
-IEEE/ACM Annual International Symposium on Computer Architecture, 2024*.
+"[NDSearch: Accelerating Graph-Traversal-Based Approximate Nearest Neighbor Search through Near Data Processing](https://ieeexplore.ieee.org/abstract/document/10609615)". *2024 ACM/IEEE 51st
+IEEE/ACM Annual International Symposium on Computer Architecture (ISCA)*.
 
 - \[**DAC'24**\] Hanqiu Chen\*, **Yitu Wang\***, Vitorio Cargnini, Reza Soltaniyeh, Dongyang Li, Gongjin Sun, Pradeep Subedi, Andrew Chang, Yiran Chen, Cong “Callie” Hao, “ICGMM: CXL-enabled Memory
 Expansion with Intelligent Caching Using Gaussian Mixture Model”. *To appear on 61st IEEE/ACM Annual Design
