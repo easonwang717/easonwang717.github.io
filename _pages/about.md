@@ -39,8 +39,8 @@ Yitu Wang is a Ph.D. candidate in computer engineering in Duke ECE Department un
 "[NDSearch: Accelerating Graph-Traversal-Based Approximate Nearest Neighbor Search through Near Data Processing](https://ieeexplore.ieee.org/abstract/document/10609615)". *2024 ACM/IEEE 51st
 IEEE/ACM Annual International Symposium on Computer Architecture (ISCA)*.
 
-- \[**DAC'24**\] Hanqiu Chen\*, **Yitu Wang\***, Vitorio Cargnini, Reza Soltaniyeh, Dongyang Li, Gongjin Sun, Pradeep Subedi, Andrew Chang, Yiran Chen, Cong “Callie” Hao, “ICGMM: CXL-enabled Memory
-Expansion with Intelligent Caching Using Gaussian Mixture Model”. *To appear on 61st IEEE/ACM Annual Design
+- \[**DAC'24**\] Hanqiu Chen\*, **Yitu Wang\***, Vitorio Cargnini, Reza Soltaniyeh, Dongyang Li, Gongjin Sun, Pradeep Subedi, Andrew Chang, Yiran Chen, Cong “Callie” Hao, “[ICGMM: CXL-enabled Memory
+Expansion with Intelligent Caching Using Gaussian Mixture Model](https://dl.acm.org/doi/abs/10.1145/3649329.3656239)”. *61st IEEE/ACM Annual Design
 Automation Conference, 2024. (\*equal contribution)*
 
 - \[**ESWEEK’23/TECS’23**\] **Yitu Wang**, Shiyu Li, Qilin Zheng, Andrew Chang, Hai “Helen” Li, Yiran Chen, “[EMS-I: An
@@ -54,15 +54,14 @@ Block-Circulant Neural Networks in ReRAM](https://ieeexplore.ieee.org/document/9
 
 ## Co-author papers
 
-- \[**DAC'24**\] Qilin Zheng, Ziru Li, Jonathan Ku, **Yitu Wang**, Brady Taylor, Yiran Chen, “Improving the Efficiency of In-
-Memory-Computing Macro with a Hybrid Analog-Digital Computing Mode For Lossless Neural Network Inference”. *To
-appear on 61st IEEE/ACM Annual Design Automation Conference, 2024.*
+- \[**DAC'24**\] Qilin Zheng, Ziru Li, Jonathan Ku, **Yitu Wang**, Brady Taylor, Yiran Chen, “[Improving the Efficiency of In-
+Memory-Computing Macro with a Hybrid Analog-Digital Computing Mode For Lossless Neural Network Inference](https://dl.acm.org/doi/abs/10.1145/3649329.3658472)”. *61st IEEE/ACM Annual Design Automation Conference, 2024.*
 
 - \[**TC’24**\] Shiyu Li, **Yitu Wang**, Edward Hanson, Andrew Chang, Yang Seok Ki, Hai “Heleln” Li, Yiran Chen, “[NDRec:
 Accelerating the Training of Recommendation Models through Near-Data Processing](https://www.computer.org/csdl/journal/tc/2024/05/10437993/1UyVDfWo6Uo)”, *IEEE Transaction on Computers, 2024.*
 
-- \[**ISCAS'24**\] Qilin Zheng, Shiyu Li, **Yitu Wang**, Ziru Li, Hai “Helen” Li, Yiran Chen, “Hybrid Digital/Analog Memoristorbased
-Computing Architecture for Sparse Deep Learning Acceleration”. *To appear on 2024 International Symposium on Circuits and Systems.*
+- \[**ISCAS'24**\] Qilin Zheng, Shiyu Li, **Yitu Wang**, Ziru Li, Hai “Helen” Li, Yiran Chen, “[Hybrid Digital/Analog Memoristorbased
+Computing Architecture for Sparse Deep Learning Acceleration](https://ieeexplore.ieee.org/abstract/document/10558703)”. *2024 International Symposium on Circuits and Systems.*
 
 - \[**MICRO’23**\] Edward Hanson, Shiyu Li, Guanglei Zhou, Feng Cheng, **Yitu Wang**, Hai “Helen” Li, and Yiran Chen, “[Si-kintusgi: Towards Recovering Golden-like Performance of Defective Many-core Spatial Architecture for AI](https://dl.acm.org/doi/abs/10.1145/3613424.3614278?casa_token=vK8OZUhzCQIAAAAA:lxy9FqzENsymrqXhOhvTzrPecFl5t72Mz7uoXm0oYQ-ZyHy6ZQLe3ccY5qBinfR6m-pOnkVWeK9Oaw)”. *Proceedings of the 56th Annual IEEE/ACM International Symposium on Microarchitecture, 2023.*
 
@@ -77,4 +76,4 @@ Sparsity in Deep Neural Networks for Efficient ReRAM-Based Deployment](https://i
 
 
 # 👨‍💼 Services
-- Reviwer of CAL, CVPR, TC, TCAD, TCAS-I, TVLSI, TODAES.
+- Reviwer of CAL, CVPR, TC, TPDS, TCAD, TCAS-I, TVLSI, TODAES.
