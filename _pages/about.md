@@ -20,13 +20,13 @@ redirect_from:
 Yitu Wang is a Ph.D. candidate in computer engineering in Duke ECE Department under the supervision of [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). He received B.S.E. in Microelectronics from Fudan University in 2020. His research interests include machine learning acceleration, near data processing for data-intensive applications such recommendation system, approximate nearest neighbor search and retrieval-augmented generation (RAG) for LLM, and algorithm-architecture co-design for deep learning system.
 
 # 📖 Educations
-- *2020.08 -*, Ph.D. candidate in Computer Engineering at Duke University, Durham, NC, USA.
+- *2020.08 - Present*, Ph.D. candidate in Computer Engineering at Duke University, Durham, NC, USA.
 - *2016.09 - 2020.06*, B.S.E in Microelectronics at Fudan University, Shanghai, China.
 
 # 💻 Experiences
-- *2024.06 - 2023.09*, System Architect Intern in [Samsung Memory Solution Lab]([http://nicsefc.ee.tsinghua.edu.cn](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/memory-labs/)), San Jose, California, USA.
-- *2023.05 - 2023.08*, Memory Research Intern in [Samsung Memory Solution Lab]([http://nicsefc.ee.tsinghua.edu.cn](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/memory-labs/)), San Jose, California, USA.
-- *2022.05 - 2022.08*, Research Intern in [Samsung Memory Solution Lab]([http://nicsefc.ee.tsinghua.edu.cn](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/memory-labs/)), San Jose, California, USA.
+- *2024.06 - 2023.09*, System Architect Intern in [Samsung Memory Solution Lab](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/memory-labs/), San Jose, California, USA.
+- *2023.05 - 2023.08*, Memory Research Intern in [Samsung Memory Solution Lab](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/memory-labs/), San Jose, California, USA.
+- *2022.05 - 2022.08*, Research Intern in [Samsung Memory Solution Lab](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/memory-labs/), San Jose, California, USA.
 - *2020.08 - 2021.07*, Research Intern (also worked remotely as a Ph.D. student at Duke) in [NICS-EFC](http://nicsefc.ee.tsinghua.edu.cn) Group in Tsinghua EE Department, Beijing, China.
   
 
