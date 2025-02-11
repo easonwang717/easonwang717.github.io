@@ -31,9 +31,11 @@ Yitu Wang is a Ph.D. candidate in computer engineering in Duke ECE Department un
   
 # 📝 Publications 
 ## Preprints
+
 - \[In Submission\] **Yitu Wang\***, Minxue Tang\*, Hanqiu Chen, Shiyu Li, Andrew Chang, Cong “Callie” Hao, Hai “Helen” Li, Yiran Chen, “FedRepre: End-to-End Acceleration of Federated Learning System with Client Representative”. (\* equal contribution)
 
 ## First-author papers
+
 - \[**MLSys'25**\] MinXue Tang\*, **Yitu Wang\***, Jingyang Zhang, Louis DiValentin, Aolin Ding, Amin Hass, Yiran Chen, Hai Li, "FedProphet: Memory-Efficient Federated Adversarial Training via Robust and Consistent Cascade Learning". *To appear at the 8th Annual Conference on Machine Learning and Systems.*
 
 - \[**ISCA'24**\] **Yitu Wang**, Shiyu Li, Qilin Zheng, Linghao Song, Zongwang Li, Andrew Chang, Hai “Helen” Li, Yiran Chen,
@@ -74,6 +76,10 @@ Selection for Heterogeneous Federated Learning](https://openaccess.thecvf.com/co
 
 - \[**EMC2-NeurIPS’19**\] Jingyang Zhang, Huanrui Yang, Fan Chen, **Yitu Wang**, and Hai “Helen” Li, “[Exploring Bit-Slice
 Sparsity in Deep Neural Networks for Efficient ReRAM-Based Deployment](https://ieeexplore.ieee.org/document/9463560)”. *Fifth Workshop on Energy Efficient Machine Learning and Cognitive Computing NeurIPS Edition, 2019.*
+
+## Survey
+
+- "[A Survey: Collaborative Hardware and Software Design in the Era of Large Language Models](https://ieeexplore.ieee.org/abstract/document/10876858)". *IEEE Circuits and Systems Magazine ( Volume: 25, Issue: 1, Firstquarter 2025).*
 
 
 # 👨‍💼 Services
