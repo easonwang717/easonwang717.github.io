@@ -81,4 +81,4 @@ Sparsity in Deep Neural Networks for Efficient ReRAM-Based Deployment](https://i
 
 # 👨‍💼 Services
 - Reviwer of CAL, CVPR, TC, TPDS, TCAD, TCAS-I, TVLSI, TODAES.
-- Program committee member of GLVLSI'25.
+- Program committee member of GLSVLSI'25.
