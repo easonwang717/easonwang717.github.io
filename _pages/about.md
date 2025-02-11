@@ -31,18 +31,18 @@ Yitu Wang is a Ph.D. candidate in computer engineering in Duke ECE Department un
   
 # 📝 Publications 
 ## Preprints
-- \[In Submission\] **Yitu Wang\***, Minxue Tang\*, Hanqiu Chen, Shiyu Li, Andrew Chang, Cong “Callie” Hao, Hai “Helen” Li, Yiran Chen, “FedRepre: End-to-End Acceleration of Federated Learning System with Client Representative”. (\*equal contribution)*
+- \[In Submission\] **Yitu Wang\***, Minxue Tang\*, Hanqiu Chen, Shiyu Li, Andrew Chang, Cong “Callie” Hao, Hai “Helen” Li, Yiran Chen, “FedRepre: End-to-End Acceleration of Federated Learning System with Client Representative”. (\* equal contribution)
 
 ## First-author papers
-- \[**MLSys'25**\] MinXue Tang\*, **Yitu Wang\***, Jingyang Zhang, Louis DiValentin, Aolin Ding, Amin Hass, Yiran Chen, Hai Li, "FedProphet: Memory-Efficient Federated Adversarial Training via Robust and Consistent Cascade Learning". To appear at the 8th Annual Conference on Machine Learning and Systems.
+- \[**MLSys'25**\] MinXue Tang\*, **Yitu Wang\***, Jingyang Zhang, Louis DiValentin, Aolin Ding, Amin Hass, Yiran Chen, Hai Li, "FedProphet: Memory-Efficient Federated Adversarial Training via Robust and Consistent Cascade Learning". *To appear at the 8th Annual Conference on Machine Learning and Systems.*
 
 - \[**ISCA'24**\] **Yitu Wang**, Shiyu Li, Qilin Zheng, Linghao Song, Zongwang Li, Andrew Chang, Hai “Helen” Li, Yiran Chen,
 "[NDSearch: Accelerating Graph-Traversal-Based Approximate Nearest Neighbor Search through Near Data Processing](https://ieeexplore.ieee.org/abstract/document/10609615)". *2024 ACM/IEEE 51st
-IEEE/ACM Annual International Symposium on Computer Architecture (ISCA)*.
+IEEE/ACM Annual International Symposium on Computer Architecture.*
 
 - \[**DAC'24**\] Hanqiu Chen\*, **Yitu Wang\***, Vitorio Cargnini, Reza Soltaniyeh, Dongyang Li, Gongjin Sun, Pradeep Subedi, Andrew Chang, Yiran Chen, Cong “Callie” Hao, “[ICGMM: CXL-enabled Memory
 Expansion with Intelligent Caching Using Gaussian Mixture Model](https://dl.acm.org/doi/abs/10.1145/3649329.3656239)”. *61st IEEE/ACM Annual Design
-Automation Conference, 2024.
+Automation Conference, 2024.*
 
 - \[**ESWEEK’23/TECS’23**\] **Yitu Wang**, Shiyu Li, Qilin Zheng, Andrew Chang, Hai “Helen” Li, Yiran Chen, “[EMS-I: An
 Efficient Memory System Design with Specialized Caching Mechanism for Recommendation System](https://dl.acm.org/doi/abs/10.1145/3609384)”. *ACM Transactions on Embedded Computing System, 2023.*
