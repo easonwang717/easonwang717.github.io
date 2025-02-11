@@ -30,11 +30,11 @@ Yitu Wang is a Ph.D. candidate in computer engineering in Duke ECE Department un
 
   
 # 📝 Publications 
-## Preprints
+  ## Preprints
 
 - \[In Submission\] **Yitu Wang\***, Minxue Tang\*, Hanqiu Chen, Shiyu Li, Andrew Chang, Cong “Callie” Hao, Hai “Helen” Li, Yiran Chen, “FedRepre: End-to-End Acceleration of Federated Learning System with Client Representative”. (\* equal contribution)
 
-## First-author papers
+  ## First-author papers
 
 - \[**MLSys'25**\] MinXue Tang\*, **Yitu Wang\***, Jingyang Zhang, Louis DiValentin, Aolin Ding, Amin Hass, Yiran Chen, Hai Li, "FedProphet: Memory-Efficient Federated Adversarial Training via Robust and Consistent Cascade Learning". *To appear at the 8th Annual Conference on Machine Learning and Systems.*
 
@@ -55,7 +55,7 @@ Efficient Memory System Design with Specialized Caching Mechanism for Recommenda
 - \[**DATE’20**\] **Yitu Wang**, Fan Chen, Linghao Song, C.J. Richard Shi, Hai “Helen” Li, and Yiran Chen, “[ReBoc: Accelerating
 Block-Circulant Neural Networks in ReRAM](https://ieeexplore.ieee.org/document/9116422)”. *2020 Design, Automation & Test in Europe Conference & Exhibition.*
 
-## Co-author papers
+  ## Co-author papers
 
 - \[**DAC'24**\] Qilin Zheng, Ziru Li, Jonathan Ku, **Yitu Wang**, Brady Taylor, Yiran Chen, “[Improving the Efficiency of In-
 Memory-Computing Macro with a Hybrid Analog-Digital Computing Mode For Lossless Neural Network Inference](https://dl.acm.org/doi/abs/10.1145/3649329.3658472)”. *61st IEEE/ACM Annual Design Automation Conference, 2024.*
@@ -77,7 +77,7 @@ Selection for Heterogeneous Federated Learning](https://openaccess.thecvf.com/co
 - \[**EMC2-NeurIPS’19**\] Jingyang Zhang, Huanrui Yang, Fan Chen, **Yitu Wang**, and Hai “Helen” Li, “[Exploring Bit-Slice
 Sparsity in Deep Neural Networks for Efficient ReRAM-Based Deployment](https://ieeexplore.ieee.org/document/9463560)”. *Fifth Workshop on Energy Efficient Machine Learning and Cognitive Computing NeurIPS Edition, 2019.*
 
-## Survey
+  ## Survey
 
 - "[A Survey: Collaborative Hardware and Software Design in the Era of Large Language Models](https://ieeexplore.ieee.org/abstract/document/10876858)". *IEEE Circuits and Systems Magazine ( Volume: 25, Issue: 1, Firstquarter 2025).*
 
