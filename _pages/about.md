@@ -31,9 +31,11 @@ Yitu Wang is a Ph.D. candidate in computer engineering in Duke ECE Department un
   
 # 📝 Publications 
 ## Preprints
-- \[In Submission\] **Yitu Wang**, Minxue Tang, Hanqiu Chen, Shiyu Li, Andrew Chang, Cong “Callie” Hao, Hai “Helen” Li, Yiran Chen, “FedRepre: End-to-End Acceleration of Federated Learning System with Client Representative”.
+- \[In Submission\] **Yitu Wang\***, Minxue Tang\*, Hanqiu Chen, Shiyu Li, Andrew Chang, Cong “Callie” Hao, Hai “Helen” Li, Yiran Chen, “FedRepre: End-to-End Acceleration of Federated Learning System with Client Representative”.
 
 ## First-author papers
+- \[**MLSys'25**\] MinXue Tang\*, **Yitu Wang\***, Jingyang Zhang, Louis DiValentin, Aolin Ding, Amin Hass, Yiran Chen, Hai Li, "FedProphet: Memory-Efficient Federated Adversarial Training via Robust and Consistent Cascade Learning". To appear at the 8th Annual Conference on Machine Learning and Systems.
+
 - \[**ISCA'24**\] **Yitu Wang**, Shiyu Li, Qilin Zheng, Linghao Song, Zongwang Li, Andrew Chang, Hai “Helen” Li, Yiran Chen,
 "[NDSearch: Accelerating Graph-Traversal-Based Approximate Nearest Neighbor Search through Near Data Processing](https://ieeexplore.ieee.org/abstract/document/10609615)". *2024 ACM/IEEE 51st
 IEEE/ACM Annual International Symposium on Computer Architecture (ISCA)*.
@@ -76,3 +78,4 @@ Sparsity in Deep Neural Networks for Efficient ReRAM-Based Deployment](https://i
 
 # 👨‍💼 Services
 - Reviwer of CAL, CVPR, TC, TPDS, TCAD, TCAS-I, TVLSI, TODAES.
+- Program committee member of GLVLSI'25.
