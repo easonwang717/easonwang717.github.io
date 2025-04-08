@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yitu Wang is a Ph.D. candidate in computer engineering in Duke ECE Department under the supervision of [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). He received B.S.E. in Microelectronics from Fudan University in 2020. His research interests focus on computer architecture, including machine learning acceleration, near data processing for data-intensive applications such recommendation system, approximate nearest neighbor search and retrieval-augmented generation (RAG) for LLM, and algorithm-architecture co-design for deep learning system.
+Yitu Wang is a Research Scientist at Meta and working on AI System Co-Design. He obtained Ph.D. degree in Computer Engineering from Duke University under the supervision of [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). He received B.S.E. in Microelectronics from Fudan University in 2020. His research interests focus on computer architecture, including machine learning acceleration, near data processing for data-intensive applications such recommendation system, approximate nearest neighbor search and retrieval-augmented generation (RAG) for LLM, and algorithm-architecture co-design for deep learning system.
 
 # 📖 Educations
-- *2020.08 - Present*, Ph.D. candidate in Computer Engineering at Duke University, Durham, NC, USA.
+- *2020.08 - 2025.03*, Ph.D. in Computer Engineering at Duke University, Durham, NC, USA.
 - *2016.09 - 2020.06*, B.S.E in Microelectronics at Fudan University, Shanghai, China.
 
 # 💻 Experiences
+- *2025.04 - Present*, Research Scientist at Meta, Menlo Park, California, USA.
 - *2024.06 - 2023.09*, System Architect Intern in [Samsung Memory Solution Lab](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/memory-labs/), San Jose, California, USA.
 - *2023.05 - 2023.08*, Memory Research Intern in [Samsung Memory Solution Lab](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/memory-labs/), San Jose, California, USA.
 - *2022.05 - 2022.08*, Research Intern in [Samsung Memory Solution Lab](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/memory-labs/), San Jose, California, USA.
