@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yitu Wang is a Research Scientist at Meta and working on AI & Systems Co-Design. He obtained Ph.D. degree in Computer Engineering from Duke University under the supervision of [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). He received B.S.E. in Microelectronics from Fudan University in 2020. His research interests focus on computer architecture, including machine learning acceleration, near data processing for data-intensive applications such recommendation system, approximate nearest neighbor search and retrieval-augmented generation (RAG) for LLM, and algorithm-architecture co-design for deep learning system.
+Yitu Wang is a Research Scientist at Meta and working on AI and Systems Co-Design. He obtained Ph.D. degree in Computer Engineering from Duke University under the supervision of [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). He received B.S.E. in Microelectronics from Fudan University in 2020. His research interests focus on computer architecture, including machine learning acceleration, near data processing for data-intensive applications such recommendation system, approximate nearest neighbor search and retrieval-augmented generation (RAG) for LLM, and algorithm-architecture co-design for deep learning system.
 
 # 📖 Educations
 - *2020.08 - 2025.03*, Ph.D. in Computer Engineering at Duke University, Durham, NC, USA.
