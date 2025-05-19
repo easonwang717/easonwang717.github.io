@@ -56,7 +56,7 @@ Efficient Memory System Design with Specialized Caching Mechanism for Recommenda
 Block-Circulant Neural Networks in ReRAM](https://ieeexplore.ieee.org/document/9116422)”. *2020 Design, Automation & Test in Europe Conference & Exhibition.*
 
 - ## Co-author papers
-  - \[**GLSVLSI'254**\] Feng Cheng, Tunhou Zhang, Junyao Zhang, Jonathan Ku, **Yitu Wang**, Xiaoxuan Yang, Hai "Helen" Li, Yiran Chen, "AutoRAC: Automated Processing-in-Memory Accelerator Design for Recommender Systems" * To appear at the 35th edition of Great Lakes Symposium on VLSI, 2025*
+  - \[**GLSVLSI'25**\] Feng Cheng, Tunhou Zhang, Junyao Zhang, Jonathan Ku, **Yitu Wang**, Xiaoxuan Yang, Hai "Helen" Li, Yiran Chen, "AutoRAC: Automated Processing-in-Memory Accelerator Design for Recommender Systems" *To appear at the 35th edition of Great Lakes Symposium on VLSI, 2025*
 
   - \[**DAC'24**\] Qilin Zheng, Ziru Li, Jonathan Ku, **Yitu Wang**, Brady Taylor, Yiran Chen, “[Improving the Efficiency of In-
 Memory-Computing Macro with a Hybrid Analog-Digital Computing Mode For Lossless Neural Network Inference](https://dl.acm.org/doi/abs/10.1145/3649329.3658472)”. *61st IEEE/ACM Annual Design Automation Conference, 2024.*
