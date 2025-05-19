@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yitu Wang is a Research Scientist at Meta and working on AI and Systems Co-Design. He obtained Ph.D. degree in Computer Engineering from Duke University under the supervision of [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). He received B.S.E. in Microelectronics from Fudan University in 2020. His research interests focus on computer architecture, including machine learning acceleration, near data processing for data-intensive applications such recommendation system, approximate nearest neighbor search and retrieval-augmented generation (RAG) for LLM, and algorithm-architecture co-design for deep learning system.
+Yitu Wang is a Research Scientist at Meta and working on [AI and Systems Co-Design](https://aisystemcodesign.github.io/). He obtained Ph.D. degree in Computer Engineering from Duke University under the supervision of [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). He received B.S.E. in Microelectronics from Fudan University in 2020. His research interests focus on computer architecture, including machine learning acceleration, near data processing for data-intensive applications such recommendation system, approximate nearest neighbor search and retrieval-augmented generation (RAG) for LLM, and algorithm-architecture co-design for deep learning system.
 
 # 📖 Educations
 - *2020.08 - 2025.03*, Ph.D. in Computer Engineering at Duke University, Durham, NC, USA.
@@ -56,6 +56,8 @@ Efficient Memory System Design with Specialized Caching Mechanism for Recommenda
 Block-Circulant Neural Networks in ReRAM](https://ieeexplore.ieee.org/document/9116422)”. *2020 Design, Automation & Test in Europe Conference & Exhibition.*
 
 - ## Co-author papers
+  - \[**GLSVLSI'254**\] Feng Cheng, Tunhou Zhang, Junyao Zhang, Jonathan Ku, **Yitu Wang**, Xiaoxuan Yang, Hai "Helen" Li, Yiran Chen, "AutoRAC: Automated Processing-in-Memory Accelerator Design for Recommender Systems" * To appear at the 35th edition of Great Lakes Symposium on VLSI, 2025*
+
   - \[**DAC'24**\] Qilin Zheng, Ziru Li, Jonathan Ku, **Yitu Wang**, Brady Taylor, Yiran Chen, “[Improving the Efficiency of In-
 Memory-Computing Macro with a Hybrid Analog-Digital Computing Mode For Lossless Neural Network Inference](https://dl.acm.org/doi/abs/10.1145/3649329.3658472)”. *61st IEEE/ACM Annual Design Automation Conference, 2024.*
 
