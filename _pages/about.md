@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yitu Wang is a Research Scientist at Meta and working on [AI and Systems Co-Design](https://aisystemcodesign.github.io/). He obtained Ph.D. degree in Computer Engineering from Duke University under the supervision of [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). He received B.S.E. in Microelectronics from Fudan University in 2020. His research interests focus on computer architecture, including machine learning acceleration, near data processing for data-intensive applications such recommendation system, approximate nearest neighbor search and retrieval-augmented generation (RAG) for LLM, and algorithm-architecture co-design for deep learning system.
+Yitu Wang is a Research Scientist at Meta and working on [AI and Systems Co-Design](https://aisystemcodesign.github.io/). He obtained Ph.D. degree in Computer Engineering from Duke University under the supervision of [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen). He received B.S.E. in Microelectronics from Fudan University in 2020. His research interests focus on computer architecture, including machine learning acceleration, near data processing for data-intensive applications such recommendation system, approximate nearest neighbor search and retrieval-augmented generation (RAG) for large language model (LLM), and algorithm-architecture co-design for deep learning system.
 
 # 📖 Educations
 - *2020.08 - 2025.03*, Ph.D. in Computer Engineering at Duke University, Durham, NC, USA.
@@ -27,7 +27,7 @@ Yitu Wang is a Research Scientist at Meta and working on [AI and Systems Co-Desi
 - *2025.04 - Present*, Research Scientist at Meta, Menlo Park, California, USA.
   - AI & Systems Co-Design for Meta Training and Inference Accelerator (MTIA)
 - *2024.06 - 2023.09*, *2023.05 - 2023.08*, *2022.05 - 2022.08*, Research Intern at [Samsung Memory Solution Lab](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/memory-labs/), San Jose, California, USA.
-  - Large Language Model System with Compute Express Link (CXL)
+  - LLM System with Compute Express Link (CXL)
   - Learning-based Cache Policy in CXL-SSD
   - Acceleration of Deep Learning Recommendation Models
 
