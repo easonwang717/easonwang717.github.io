@@ -25,9 +25,12 @@ Yitu Wang is a Research Scientist at Meta and working on [AI and Systems Co-Desi
 
 # 💻 Experiences
 - *2025.04 - Present*, Research Scientist at Meta, Menlo Park, California, USA.
-- *2024.06 - 2023.09*, System Architect Intern in [Samsung Memory Solution Lab](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/memory-labs/), San Jose, California, USA.
-- *2023.05 - 2023.08*, Memory Research Intern in [Samsung Memory Solution Lab](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/memory-labs/), San Jose, California, USA.
-- *2022.05 - 2022.08*, Research Intern in [Samsung Memory Solution Lab](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/memory-labs/), San Jose, California, USA.
+  - AI & Systems Co-Design for Meta Training and Inference Accelerator (MTIA)
+- *2024.06 - 2023.09*, *2023.05 - 2023.08*, *2022.05 - 2022.08*, Research Intern at [Samsung Memory Solution Lab](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/memory-labs/), San Jose, California, USA.
+  - Large Language Model System with Compute Express Link (CXL)
+  - Learning-based Cache Policy in CXL-SSD
+  - Acceleration of Deep Learning Recommendation Models
+
 
   
 # 📝 Publications 
@@ -36,7 +39,7 @@ Yitu Wang is a Research Scientist at Meta and working on [AI and Systems Co-Desi
   - \[In Submission\] **Yitu Wang\***, Minxue Tang\*, Hanqiu Chen, Shiyu Li, Andrew Chang, Cong “Callie” Hao, Hai “Helen” Li, Yiran Chen, “FedRepre: End-to-End Acceleration of Federated Learning System with Client Representative”. (\* equal contribution)
 
 - ## First-author papers 
-  - \[**MLSys'25**\] MinXue Tang\*, **Yitu Wang\***, Jingyang Zhang, Louis DiValentin, Aolin Ding, Amin Hass, Yiran Chen, Hai Li, "FedProphet: Memory-Efficient Federated Adversarial Training via Robust and Consistent Cascade Learning". *To appear at the 8th Annual Conference on Machine Learning and Systems.* (\* equal contribution)
+  - \[**MLSys'25**\] MinXue Tang\*, **Yitu Wang\***, Jingyang Zhang, Louis DiValentin, Aolin Ding, Amin Hass, Yiran Chen, Hai Li, "FedProphet: Memory-Efficient Federated Adversarial Training via Robust and Consistent Cascade Learning". *8th Annual Conference on Machine Learning and Systems.* (\* equal contribution)
 
   - \[**ISCA'24**\] **Yitu Wang**, Shiyu Li, Qilin Zheng, Linghao Song, Zongwang Li, Andrew Chang, Hai “Helen” Li, Yiran Chen,
 "[NDSearch: Accelerating Graph-Traversal-Based Approximate Nearest Neighbor Search through Near Data Processing](https://ieeexplore.ieee.org/abstract/document/10609615)". *2024 ACM/IEEE 51st
