@@ -25,7 +25,7 @@ Yitu Wang is a Research Scientist at Meta and working on [AI and Systems Co-Desi
 
 # 💻 Experiences
 - *2025.04 - Present*, Research Scientist at Meta, Menlo Park, California, USA.
-  - AI & Systems Co-Design for Meta Training and Inference Accelerator (MTIA)
+  - AI and Systems Co-Design for Meta Training and Inference Accelerator (MTIA)
 - *2024.06 - 2023.09*, *2023.05 - 2023.08*, *2022.05 - 2022.08*, Research Intern at [Samsung Memory Solution Lab](https://semiconductor.samsung.com/us/about-us/us-office/us-r-and-d-labs/memory-labs/), San Jose, California, USA.
   - LLM System with Compute Express Link (CXL)
   - Learning-based Cache Policy in CXL-SSD
