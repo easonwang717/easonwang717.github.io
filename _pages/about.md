@@ -21,6 +21,7 @@ Yitu Wang is a Research Scientist at Meta and working on [AI and Systems Co-Desi
 
 # 📖 Educations
 - *2020.08 - 2025.03*, Ph.D. in Computer Engineering at Duke University, Durham, North Carolina, USA.
+  - Thesis: [Near Data Processing for Data-Intensive Machine Learning Workloads](https://dukespace.lib.duke.edu/items/bf8a940c-3f81-440f-b8b3-9310f29f4959)
 - *2016.09 - 2020.06*, B.S.E in Microelectronics at Fudan University, Shanghai, China.
 
 # 💻 Experiences
@@ -88,5 +89,5 @@ Sparsity in Deep Neural Networks for Efficient ReRAM-Based Deployment](https://i
 
 
 # 👨‍💼 Services
-- Reviwer of CAL, CVPR, TC, TPDS, TCAD, TCAS-I, TVLSI, TODAES, GLSVLSI.
-- Program committee member of GLSVLSI'25.
+- Reviwer of CAL, TC, TPDS, TCAD, TCAS-I, TVLSI, TODAES, GLSVLSI.
+- Program committee member of DAC'26, GLSVLSI'25.
