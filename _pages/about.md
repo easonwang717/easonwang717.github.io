@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yitu Wang is a Senior Research Scientist at Meta and working on [AI and Systems Co-Design](https://aisystemcodesign.github.io/). He obtained Ph.D. degree in Computer Engineering from Duke University under the supervision of [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen) in 2025. He received B.S.E. in Microelectronics from Fudan University in 2020.
+Yitu Wang is a Senior Research Scientist on the [AI and Systems Co-Design](https://aisystemcodesign.github.io/) team at Meta. He obtained Ph.D. degree in Computer Engineering from Duke University under the supervision of [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen) in 2025. He received B.S.E. in Microelectronics from Fudan University in 2020.
 
 # 📖 Educations
 - *2020.08 - 2025.03*, Ph.D. in Computer Engineering at Duke University, Durham, North Carolina, USA.
