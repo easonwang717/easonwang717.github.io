@@ -38,7 +38,7 @@ Yitu Wang is a Senior Research Scientist on the [AI and Systems Co-Design](https
   
   
 - ## First-author papers
-  - \[**TC’26**\] **Yitu Wang\***, Minxue Tang\*, Hanqiu Chen, Shiyu Li, Yiqu Liu, Qilin Zheng, Cong Guo, Jingwei Sun, Andrew Chang, Cong “Callie” Hao, Hai “Helen” Li, Yiran Chen, “FedRepre: End-to-End Acceleration of Federated Learning System with Client Representative”. (\* equal contribution)
+  - \[**TC’26**\] **Yitu Wang\***, Minxue Tang\*, Hanqiu Chen, Shiyu Li, Yiqu Liu, Qilin Zheng, Cong Guo, Jingwei Sun, Andrew Chang, Cong “Callie” Hao, Hai “Helen” Li, Yiran Chen, “FedRepre: End-to-End Acceleration of Federated Learning System with Client Representative”, *IEEE Transaction on Computers, 2026.* (\* equal contribution)
 
   - \[**MLSys'25**\] MinXue Tang\*, **Yitu Wang\***, Jingyang Zhang, Louis DiValentin, Aolin Ding, Amin Hass, Yiran Chen, Hai Li, "[FedProphet: Memory-Efficient Federated Adversarial Training via Robust and Consistent Cascade Learning](https://arxiv.org/abs/2409.08372)". *8th Annual Conference on Machine Learning and Systems.* (\* equal contribution)
 
